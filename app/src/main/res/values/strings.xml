@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Firebase Chat</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_anonymous">Continue as Guest</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    <string name="login_subtitle">Connect with friends instantly</string>
+    <string name="app_logo">App Logo</string>
+    <string name="chat_room">Chat Room</string>
+    <string name="type_message">Type a message</string>
+    <string name="send_message">Send Message</string>
+    <string name="logout">Logout</string>
+    <string name="sample_message">Hello! How are you?</string>
+    <string name="sample_time">10:30 AM</string>
+    <string name="sample_sender">John Doe</string>
+</resources>
